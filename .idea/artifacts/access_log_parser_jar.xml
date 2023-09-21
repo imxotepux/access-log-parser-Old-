@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="access-log-parser:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/access_log_parser_jar</output-path>
-    <root id="archive" name="access-log-parser.jar">
-      <element id="module-output" name="access-log-parser" />
-    </root>
-  </artifact>
-</component>
